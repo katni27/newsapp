@@ -1,1 +1,1 @@
-# newsapp
+# Django News App
